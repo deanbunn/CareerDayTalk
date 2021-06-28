@@ -1,0 +1,79 @@
+<!doctype html>
+
+<html>
+
+	<head>
+		<meta charset="utf-8">
+                
+		<link rel="stylesheet" type="text/css" href="css/careerday.css">
+		
+		<script type="text/javascript" src="js/careerday.js"></script>
+
+		<title>Career Day</title>
+
+	</head>
+
+	<body>
+
+		<h1>Career Day Demo!</h1>
+
+		<hr />
+
+		<br />
+
+		<strong>Please enter your name</strong>
+
+		<input type="text" id="gname">
+
+		<input type="button" id="btn1" value="Greeting" onclick="howdy()" />
+
+                <br />
+	        <br />
+
+		<strong>Guess my favorite foot wear</strong>
+
+		<input type="button" id="btn2" value="Show Answer" onclick="flops()" />
+
+		<input type="button" id="btn3" value="Hide Those Feets" onclick="hide_those_feet()" style="display:none" />
+
+		<br />
+		<br />
+
+		<div id="dvFlops" style="display:none">
+			
+			<img alt="flops" src="images/flops.jpg">
+
+		</div>
+
+		
+		<br />
+		
+
+		<strong>What do you call a 24 hour coding contest?</strong>
+		<br>
+		<input type="radio" name="codecontest" id="rb01" value="CodeBowl">Code Bowl <br />
+		<input type="radio" name="codecontest" id="rb02" value="Hackathon">Hackathon <br />
+                <input type="radio" name="codecontest" id="rb03" value="CodeReview">Code Review <br />
+
+		<br />
+		
+
+		<input type="button" id="btn4" value="Check Answer" onclick="code_contest_check()" />		
+		
+		<br />
+		<br />
+
+		<span class="wrong_answer" id="spWrong" style="display:none">Wrong Answer!</span>
+		
+		<div id="dvCoders" style="display:none">
+
+			<img alt="Coders" src="images/coders.jpg">
+
+		</div>
+
+		
+	</body>
+
+</html>
+
+
