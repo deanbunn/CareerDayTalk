@@ -8,11 +8,11 @@ One of my first assignments was as a small extension node operator
 
 ![SEN Operator](images/sen_operator.jpg "SEN Operator")
 
-Getting ready to roll out to the field with my team
+Mobile comms ready to roll out
 
 ![SEN Rollout](images/sen_rollout.jpg)
 
-The Army has a great travel plan. Here I'm with my team in Saudi Arabia
+The Army has a great travel plan.
 
 ![Saudi Team](images/saudi_team.jpg)
 
@@ -22,7 +22,12 @@ I liked it so much I re\-enlisted
 
 ### Code Life
 
-As a coder, it's best to share your knowledge with others. 
+As a coder: 
+
+- Always share your knowledge
+- You don't know something till you can teach it
+- Imposter syndrome is real
+- No one knows everything
 
 Mentoring a hackathon
 
@@ -36,7 +41,7 @@ Another office setup
 
 ![Darth Coder](images/darth_coder.jpg)
 
-Managing servers
+Server room maintenance
 
 ![Server Warmth](images/server_warmth.jpg)
 
