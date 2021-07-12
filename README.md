@@ -12,10 +12,6 @@ Mobile Comms ready to roll out
 
 ![SEN Rollout](images/sen_rollout.jpg)
 
-Mentoring a hackathon
-
-![Coders](images/coders.jpg)
-
 Office configuration
 
 ![Office Configuration](images/dark_ben.JPG)
@@ -31,6 +27,10 @@ Testing out new technologies
 Chaperoning high school students to the GDC
 
 ![GDC Testing](images/gdc_testing.jpg)
+
+Mentoring a hackathon
+
+![Coders](images/coders.jpg)
 
 Judging a robotics competition
 
