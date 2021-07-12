@@ -2,13 +2,13 @@
 
 ### My Background
 
-My IT career started back in the late 90's when I joined the Army. My MOS \(military occupational skill\) was in mobile communications. Upon leaving the Army, I worked as a contractor for WorldCom configuring remote circuit connections. In 2003, I landed a job as temp at UC Davis. From there things took off and in a few years, I became a system admin with developer duties assigned.
+My IT career started back in the late 90's when I joined the Army. My MOS \(military occupational skill\) was in mobile communications. Upon leaving the Army, I worked as a contractor for WorldCom configuring remote circuit connections. In 2003, I landed a job as temp at UC Davis. From there things took off and in a few years, I became a system admin with developer duties assigned. Currently, I'm an application developer on the DevOps team for the College of Engineering. 
 
 One of my first assignments was as a small extension node operator
 
 ![SEN Operator](images/sen_operator.jpg "SEN Operator")
 
-Mobile comms ready to roll out
+Mobile Comms ready to roll out
 
 ![SEN Rollout](images/sen_rollout.jpg)
 
@@ -18,7 +18,7 @@ Mentoring a hackathon
 
 Office configuration
 
-![Darth Coder](images/darth_coder.jpg)
+![Office Configuration](images/dark_ben.jpg)
 
 Server room maintenance
 
@@ -31,10 +31,6 @@ Testing out new technologies
 Chaperoning high school students to the GDC
 
 ![GDC Testing](images/gdc_testing.jpg)
-
-Proctoring IT networking competition
-
-![Skills USA](images/skillsusa.jpg)
 
 Judging a robotics competition
 
@@ -59,6 +55,8 @@ As a coder:
 - [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 
 
-### TLS Handshake Exercise
+### Website Connection Exercise
+
+
 
 
