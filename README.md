@@ -18,7 +18,7 @@ Mentoring a hackathon
 
 Office configuration
 
-![Office Configuration](images/dark_ben.jpg)
+![Office Configuration](images/dark_ben.JPG)
 
 Server room maintenance
 
